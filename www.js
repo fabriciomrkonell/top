@@ -14,6 +14,6 @@ app.get('/', function(req, res) {
   res.sendfile('views/index.html');
 });
 
-app.listen(2017, function(){
-  console.log('Listening on port 2017!');
+app.listen(80, function(){
+  console.log('Listening on port 80!');
 });
