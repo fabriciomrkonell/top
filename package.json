@@ -1,0 +1,12 @@
+{
+  "name": "ranchobom",
+  "version": "1.0.0",
+  "description": "Site",
+  "scripts": {
+    "start": "node www.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
